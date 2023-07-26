@@ -1,0 +1,9 @@
+// tsconfig.spec.json
+{
+    "esModuleInterop": true,
+    "compilerOptions": {
+      "jsx": "react-jsx",
+      "strict": true,
+      "baseUrl": "./",
+    },
+}

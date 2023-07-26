@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1690327965922" clover="3.2.0">
+  <project timestamp="1690327965922" name="All files">
+    <metrics statements="28" coveredstatements="14" conditionals="4" coveredconditionals="0" methods="15" coveredmethods="1" elements="47" coveredelements="15" complexity="0" loc="28" ncloc="28" packages="2" files="3" classes="3"/>
+    <package name="components.NewTransactionModal">
+      <metrics statements="27" coveredstatements="13" conditionals="4" coveredconditionals="0" methods="15" coveredmethods="1"/>
+      <file name="index.tsx" path="C:\Users\Fernando\github\igniteReact\Dashboard\MoneyTracker\src\components\NewTransactionModal\index.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="C:\Users\Fernando\github\igniteReact\Dashboard\MoneyTracker\src\components\NewTransactionModal\styles.ts">
+        <metrics statements="22" coveredstatements="8" conditionals="4" coveredconditionals="0" methods="14" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+        <line num="117" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="122" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="126" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="styles.theme">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="default.ts" path="C:\Users\Fernando\github\igniteReact\Dashboard\MoneyTracker\src\styles\theme\default.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
