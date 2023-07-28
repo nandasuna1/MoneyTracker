@@ -1,20 +1,28 @@
 {
-    "transaction": [
-        {
-            "id": 1,
-            "description": "Venda de site", 
-            "type": "income",
-            "category": "Venda",
-            "price": 1400,
-            "createdAt": "2023-07-25T23:49:28.285Z"
-        },
-        {
-            "id": 1,
-            "description": "Hamburguer", 
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2023-07-25T12:49:28.285Z"
-        }
-    ]
+  "transaction": [
+    {
+      "id": 1,
+      "description": "Venda de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-07-25T23:49:28.285Z"
+    },
+    {
+      "id": 1,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-07-25T12:49:28.285Z"
+    },
+    {
+      "description": "Café",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-07-28T17:58:34.140Z",
+      "id": 2
+    }
+  ]
 }

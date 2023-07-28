@@ -22,7 +22,7 @@ export interface TableProps {
 
 export const TransactionRow = styled.div`
   width: 100%;
-  padding: 10px 16px;
+  padding: 10px 8px;
   background-color: ${(props) => props.theme["gray-700"]};
 
   display: flex;
@@ -40,7 +40,7 @@ export const TransactionRow = styled.div`
 `;
 
 export const TransactionDetail = styled.div<TableProps>`
-  width: ${(props) => (props.isFirstColumn ? 50 : 25)}%;
+  width: ${(props) => (props.isFirstColumn ? 40 : 30)}%;
   color: ${(props) => props.theme["gray-100"]};
 
     @media screen and (max-width: 600px) {
@@ -54,7 +54,7 @@ export const TransactionDetail = styled.div<TableProps>`
 `;
 
 export const TransactionTypeAndDate = styled.div`
-  width: 25%;
+  width: 30%;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
